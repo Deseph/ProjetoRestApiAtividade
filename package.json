@@ -2,9 +2,9 @@
   "name": "ProjetoRestApiVideogame",
   "version": "1.0.0",
   "description": "Minha pasta sobre a Rest Api.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "json-server --watch db.json",
+    "start": "node ./server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
