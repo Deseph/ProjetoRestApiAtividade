@@ -1,5 +1,5 @@
 {
-  "name": "ProjetoRestApiVideogame",
+  "name": "ProjetoRestApiAtividade",
   "version": "1.0.0",
   "description": "Minha pasta sobre a Rest Api.",
   "main": "server.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Deseph/ProjetoRestApiVideogame.git"
+    "url": "git+https://github.com/Deseph/ProjetoRestApiAtividade.git"
   },
   "keywords": [],
   "author": "Fabio Joaquim Pedrosa Junior",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Deseph/ProjetoRestApiVideogame/issues"
+    "url": "https://github.com/Deseph/ProjetoRestApiAtividade/issues"
   },
-  "homepage": "https://github.com/Deseph/ProjetoRestApiVideogame#readme",
+  "homepage": "https://github.com/Deseph/ProjetoRestApiAtividade#readme",
   "dependencies": {
     "json-server": "^0.16.3"
   }

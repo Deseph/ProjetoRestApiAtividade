@@ -1,28 +1,364 @@
 {
-  "jogos": [
+  "Star Wars": [
     {
       "id": 1,
-      "descricao": "Super Mário",
-      "genero": "Aventura",
-      "rating": 10
+      "descricao": "Luke Skywalker",
+      "genero": "Homem",
+      "idade": 60
     },
     {
       "id": 2,
-      "descricao": "Red Dead Redemption",
-      "genero": "Faroeste",
-      "rating": 8
+      "descricao": "Leia",
+      "genero": "mulher",
+      "idade": 65
     },
     {
-      "descricao": "Free Fire",
-      "genero": "Ação e Aventura",
-      "rating": 7,
+      "descricao": "r2-d2",
+      "genero": "robozao",
+      "idade": 10,
       "id": 3
     },
     {
       "id": 4,
-      "descricao": "Fifa 2021",
-      "genero": "Esportes",
-      "rating": 7
+      "descricao": "Darth Vader",
+      "genero": "do mal",
+      "idade": "o suficiente para ser mau"
     }
-  ]
+  ],
+
+  "Star Trek": [
+    {
+      "id": 1,
+      "descricao": "Spok",
+      "genero": "Homem",
+      "idade": 80
+    },
+
+    {
+      "id": 2,
+      "descricao": "James Kirk",
+      "genero": "homem",
+      "idade": 90
+    },
+    {
+      "descricao": "Uhura",
+      "genero": "mulher",
+      "idade": 60,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "descricao": "Scott",
+      "genero": "Homem",
+      "idade": "78"
+    }
+  ],
+
+  "Pokemons": [
+    {
+      "id": 1,
+      "descricao": "Bulbasaur",
+      "elemento": "grama",
+      "numero": 001
+    },
+
+    {
+      "id": 2,
+      "descricao": "Charmander",
+      "elemento": "fogo",
+      "numero": 004
+    },
+    {
+      "descricao": "Squirtle",
+      "elemento": "agua",
+      "numero": 007,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "descricao": "caterpie",
+      "elemento": "inseto",
+      "numero": "010"
+    }
+  ],
+
+  "Chaves": [
+    {
+      "id": 1,
+      "descricao": "Chaves",
+      "genero": "Homem",
+      "idade": 14
+    },
+
+    {
+      "id": 2,
+      "descricao": "Kiko",
+      "genero": "homem",
+      "idade": 15
+    },
+    {
+      "descricao": "Chiquinha",
+      "genero": "mulher",
+      "idade": 13,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "descricao": "Seu madruga",
+      "genero": "Homem",
+      "idade": "48"
+    }
+  ],
+
+  "Naruto": [
+    {
+      "id": 1,
+      "descricao": "Naruto Uzumaki",
+      "rank": "Nanadaime Hokage",
+      "idade": 33
+    },
+
+    {
+      "id": 2,
+      "descricao": "Sasuke Uchiha",
+      "rank": "Sasaukage",
+      "idade": 34
+    },
+    {
+      "descricao": "Sakura Haruno",
+      "rank": "Kunoichi",
+      "idade": 33,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "descricao": "Kakashi Hatake",
+      "rank": "Rokudaime Hokage",
+      "idade": "47"
+    }
+  ],
+
+  "Simpsons": [
+    {
+      "id": 1,
+      "descricao": "Homer Simpson",
+      "genero": "Homem",
+      "idade": 45
+    },
+
+    {
+      "id": 2,
+      "descricao": "Bart Simpson",
+      "genero": "homem",
+      "idade": 15
+    },
+    {
+      "descricao": "Marge Simpson",
+      "genero": "mulher",
+      "idade": 43,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "descricao": "Lisa Simpson",
+      "genero": "mulher",
+      "idade": "12"
+    }
+  ],
+
+  "Dragon Ball": [
+    {
+      "id": 1,
+      "descricao": "Son Goku",
+      "genero": "Homem",
+      "idade": 40
+    },
+
+    {
+      "id": 2,
+      "descricao": "Vegeta",
+      "genero": "homem",
+      "idade": 48
+    },
+    {
+      "descricao": "majin boo",
+      "genero": "et rosa loco",
+      "idade": 1000,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "descricao": "bulma",
+      "genero": "mulher",
+      "idade": "47"
+    }
+  ],
+  "Minecraft": [
+    {
+      "id": 1,
+      "descricao": "Pedregulho",
+      "forma": "quadrada",
+      "quantidade": 64
+    },
+
+    {
+      "id": 2,
+      "descricao": "Obsidiana",
+      "forma": "quadrada",
+      "quantidade": 50
+    },
+    {
+      "descricao": "Madeira de Carvalho",
+      "forma": "quadrada",
+      "quantidade": 60,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "descricao": "granito",
+      "forma": "quadrada",
+      "quantidade": 20,
+    }
+  ],
+
+  "Futurama": [
+    {
+      "id": 1,
+      "descricao": "Turanga Leela",
+      "genero": "mulher",
+      "idade": 25
+    },
+
+    {
+      "id": 2,
+      "descricao": "Bender",
+      "genero": "robo",
+      "idade": 30
+    },
+    {
+      "descricao": "Fry",
+      "genero": "Homem",
+      "idade": 27,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "descricao": "Wong",
+      "genero": "mulher",
+      "idade": "23"
+    }
+  ],
+
+  "Frozen": [
+    {
+      "id": 1,
+      "descricao": "Elsa",
+      "genero": "mulher",
+      "idade": 17
+    },
+
+    {
+      "id": 2,
+      "descricao": "Anna",
+      "genero": "Mulher",
+      "idade": 17
+    },
+    {
+      "descricao": "Olaf",
+      "genero": "boneco de gelo",
+      "idade": 5,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "descricao": "Kristoff",
+      "genero": "Homem",
+      "idade": "24"
+    }
+  ],
+
+  "Padrinhos Mágicos": [
+    {
+      "id": 1,
+      "descricao": "Timmy",
+      "genero": "Homem",
+      "idade": 7
+    },
+
+    {
+      "id": 2,
+      "descricao": "Crocker",
+      "genero": "homem",
+      "idade": 30
+    },
+    {
+      "descricao": "Cosmo",
+      "genero": "homem",
+      "idade": 30,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "descricao": "wanda",
+      "genero": "mulher",
+      "idade": "29"
+    }
+  ],
+
+  "Mortal Kombat": [
+    {
+      "id": 1,
+      "descricao": "Scorpion",
+      "genero": "Homem",
+      "idade": 35
+    },
+
+    {
+      "id": 2,
+      "descricao": "Sub-zero",
+      "genero": "homem",
+      "idade": 37
+    },
+    {
+      "descricao": "Raiden",
+      "genero": "homem",
+      "idade": 50,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "descricao": "Liu kang",
+      "genero": "Homem",
+      "idade": "30"
+    }
+  ],
+
+  "Zoboomafoo": [
+    {
+      "id": 1,
+      "descricao": "Eu",
+      "genero": "palavra",
+      "idade": "assisto desde bebezinho"
+    },
+
+    {
+      "id": 2,
+      "descricao": "Você",
+      "genero": "palavra",
+      "idade": "assisto desde bebezinho"
+    },
+    {
+      "descricao": "E o",
+      "genero": "palavra",
+      "idade": "assisto desde bebezinho",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "descricao": "Zoboomafoo",
+      "genero": "palavra",
+      "idade": "assisto desde bebezinho",
+    }
+  ],
+
 }
