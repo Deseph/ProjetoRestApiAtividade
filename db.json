@@ -59,19 +59,19 @@
       "id": 1,
       "descricao": "Bulbasaur",
       "elemento": "grama",
-      "numero": 001
+      "numero": "001"
     },
 
     {
       "id": 2,
       "descricao": "Charmander",
       "elemento": "fogo",
-      "numero": 004
+      "numero": "004"
     },
     {
       "descricao": "Squirtle",
       "elemento": "agua",
-      "numero": 007,
+      "numero": "007",
       "id": 3
     },
     {
@@ -217,7 +217,7 @@
       "id": 4,
       "descricao": "granito",
       "forma": "quadrada",
-      "quantidade": 20,
+      "quantidade": 20
     }
   ],
 
@@ -357,8 +357,7 @@
       "id": 4,
       "descricao": "Zoboomafoo",
       "genero": "palavra",
-      "idade": "assisto desde bebezinho",
+      "idade": "assisto desde bebezinho"
     }
-  ],
-
+  ]
 }
